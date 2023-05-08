@@ -1,5 +1,5 @@
 ## “Java is C++ without the guns, clubs and knives.” — James Gosling
-<img align="right" height="250" src="https://64.media.tumblr.com/a935d7cacf17663f8bd18f49290abc1f/43e72218d5e4fdeb-5e/s1280x1920/4a86eeb2b099cc32f7c1e64663716aaeb364ba1c.gifv">
+<img align="right" height="250" src="https://64.media.tumblr.com/a935d7cacf17663f8bd18f49290abc1f/43e72218d5e4fdeb-5e/s1280x1920/4a86eeb2b099cc32f7c1e64663716aaeb364ba1c.gif">
 
 ### 🧑‍💻 About me:
 
@@ -22,7 +22,7 @@
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BorisBochkaryov&show_icons=true&theme=cobalt&layout=compact&cache_seconds=1800" />
+  <img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BorisBochkaryov&show_icons=true&theme=radical&layout=compact&cache_seconds=1800" />
 </a>
 
 <br clear="all" />
